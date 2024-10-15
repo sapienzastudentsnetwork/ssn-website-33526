@@ -1,2 +1,3 @@
 # SapienzaStudents.net | Filosofia e Intelligenza Artificiale (31774)
-Submodule del sito SSN.net per il corso di Filosofia e Intelligenza Artificiale (31774) @ Sapienza
+
+Submodule del sito di Sapienza Students Network per il Corso di Laurea in Filosofia e Intelligenza Artificiale (31774) @ Sapienza
