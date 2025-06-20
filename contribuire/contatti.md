@@ -2,8 +2,8 @@
 title: "Contatti di riferimento"
 bookToC: false
 weight: 2
-layout: 'contacts/31774'
-type: 'page'
+layout: '31774'
+type: 'page/contacts'
 ---
 
-Apri https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io/blob/main/layouts/page/contacts/31774.html per il contenuto di questa pagina
+Contatti dei principali curatori del sotto-progetto Filosofia di sapienzastudents.net
