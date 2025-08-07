@@ -1,5 +1,6 @@
 ---
 title: Esami
+aliases: ["/31774/info/vita-studentesca/esami"]
 weight: 1
 ---
 

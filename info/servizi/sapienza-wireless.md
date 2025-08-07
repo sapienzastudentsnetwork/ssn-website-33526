@@ -1,5 +1,6 @@
 ---
 title: Wi-Fi di Ateneo
+aliases: ["/31774/info/servizi/sapienza-wireless"]
 weight: 2
 ---
 

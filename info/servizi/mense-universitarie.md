@@ -1,5 +1,6 @@
 ---
 title: Mense universitarie
+aliases: ["/31774/info/servizi/mense-universitarie"]
 weight: 3
 ---
 
