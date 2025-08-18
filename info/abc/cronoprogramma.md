@@ -4,9 +4,9 @@ weight: 2
 ---
 
 {{% hint info %}}
-<i class="fa-solid fa-circle-info" style="color: #74C0FC;"></i> **Gruppo Whatsapp**
+<i class="fa-solid fa-circle-info" style="color: #74C0FC;"></i> **Gruppo WhatsApp**
 
-È disponibile anche un [gruppo Whatsapp](https://chat.whatsapp.com/LYjbYWnufoi2L0pkUoW3U7), gestito tra studenti e studentesse del corso di laurea, attraverso la quale è possibile porre domande e dubbi
+È disponibile un [gruppo WhatsApp](https://chat.whatsapp.com/LYjbYWnufoi2L0pkUoW3U7), gestito tra studentesse e studenti del corso di laurea, dove puoi trovare supporto in caso di problemi o maggiori informazioni.
 {{% /hint %}}
 
 # Cronoprogramma del Corso di Laurea in Filosofia e Intelligenza Artificiale
