@@ -94,7 +94,7 @@ Gli Obblighi Formativi Aggiuntivi (OFA) in Italiano sono assegnati agli iscritti
 - STORIA DELLA FILOSOFIA (1026845)
 - STORIA DELL'ETICA  (10595986)
 
-Ciò può essere fatto aggiungendo uno di questi esami al Percorso Formativo. Una guida alla sua compilazione si trova [qui](/33526/info/ABC/percorso-formativo).
+Ciò può essere fatto aggiungendo uno di questi esami al Percorso Formativo. Una guida alla sua compilazione si trova [qui](/33526/info/abc/percorso-formativo).
 
 {{% hint warning %}}
 <i class="fa-solid fa-triangle-exclamation" style="color: #FFD43B;"></i> **Attenzione**

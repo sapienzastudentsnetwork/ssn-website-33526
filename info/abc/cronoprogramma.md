@@ -16,7 +16,7 @@ Anche se all'inizio potresti sentirti un po' disorientato, in realtà ci sono so
 Ricorda: l'obiettivo non è solo raggiungere la fine del percorso, ma anche trarre il massimo valore da ogni fase del percorso. Approfitta di ogni opportunità per crescere, imparare e costruire il tuo futuro, insieme ai tuoi compagni e futuri colleghi.
 
 ## **Da aprile a settembre**: iscriversi e immatricolarsi
-Il primo passo fondamentale è iscriversi: per farlo è necessario superare il test di ingresso TOLC-SU e immatricolarsi. Puoi trovare tutte le informazioni e i passaggi necessari sulla [guida per iscriversi](/33526/info/ABC/come-iscriversi/).
+Il primo passo fondamentale è iscriversi: per farlo è necessario superare il test di ingresso TOLC-SU e immatricolarsi. Puoi trovare tutte le informazioni e i passaggi necessari sulla [guida per iscriversi](/33526/info/abc/come-iscriversi/).
 
 
 ## **Metà settembre**: controllare l'orario e le aule delle lezioni
@@ -35,7 +35,7 @@ Tappa fondamentale nella tua esperienza universitaria è il Percorso Formativo, 
 
 Inoltre, è possibile modficare il tuo Percorso Formativo anche dopo la chiusura della finestra di novembre-gennaio, ma solo per motivazioni urgenti (necessità di sostenere un esame per accedere ad un concorso, una borsa di studio, una magistrale): in tal caso scrivi alla [segreteria didattica](mailto:valentina.petito@uniroma1.it), spiegando il motivo della richiesta. Tieni a mente che la valutazione delle motivazioni è a discrezione della segreteria didattica stessa, che può decidere di non accettare la richiesta e, quindi, di non permetterti di modificare il Percorso Fornativo.
 
-Per tutte le informazioni su come compilare il Percorso Formativo e la lista di esami tra cui scegliere, consulta la nostra [guida](/33526/info/ABC/percorso-formativo).
+Per tutte le informazioni su come compilare il Percorso Formativo e la lista di esami tra cui scegliere, consulta la nostra [guida](/33526/info/abc/percorso-formativo).
 
 ## **Data da definirsi (dicembre)**: scadenza seconda rata
 La scadenza per il pagamento della seconda rata è fissata per **Data da definirsi (dicembre)**. Per maggiori informazioni sui pagamenti e le scadenze, consulta la [pagina dedicata](https://www.uniroma1.it/it/pagina/contributi-e-agevolazioni).
@@ -43,7 +43,7 @@ La scadenza per il pagamento della seconda rata è fissata per **Data da definir
 ## **Da gennaio a febbraio, da giugno a luglio e a settembre**: sostenere gli esami
 Gli esami si svolgono alla fine di ogni semestre. Per conoscere la data e l'aula di ogni esame è possibile consultare la sezione [frequentare](ttps://www.corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione) del sito del corso. Durante la sessione invernale e quella estiva sono previsti due/tre appelli per ogni esame, durante la sessione di settembre è previsto un appello (talvolta due).
 
-Per poter sostenere un esame è necessario prenotarsi tramite [InfoStud](https://www.studenti.uniroma1.it/phoenix/index.html#/) e prenotare l'esame nella sezione **Ricerca Appelli**. Se hai qualche dubbio, consulta la nostra [guida](/33526/info/ABC/esami)
+Per poter sostenere un esame è necessario prenotarsi tramite [InfoStud](https://www.studenti.uniroma1.it/phoenix/index.html#/) e prenotare l'esame nella sezione **Ricerca Appelli**. Se hai qualche dubbio, consulta la nostra [guida](/33526/info/abc/esami)
 
 {{% hint warning %}}
 <i class="fa-solid fa-triangle-exclamation" style="color: #FFD43B;"></i>  **Attenzione**
@@ -57,4 +57,4 @@ La scadenza per il pagamento della terza rata è fissata per **Data da definirsi
 ## **Inizio del terzo anno**: cominciare a pensare alla laurea
 Ognuno ha i propri tempi e non esiste nessun premio per il "primo laureato", quindi non preoccuparti se non pensi di riuscire a laurearti alla prima sessione di laurea: qualsiasi sessione è ugualmente valida e nessun ritardo riduce il valore di un traguardo così importante. Tuttavia, proprio per evitare di dover andare di fretta in seguito, ti consigliamo di cominciare ad organizzarti per la laurea all'inizio del terzo anno. Ciò vuol dire anche soltanto: cominciare a pensare a quali argomenti ti appassionano, selezionando quelli che vorresti approfondire; andare a ricevimento da un* docente il cui esame ti è particolarmente piaciuto, chiedendo informazioni e suggerimenti; leggere libri ed articoli degli argomenti selezionati, per capire davvero se ti interessano a tal punto da iniziare una ricerca di livello accedemico su di loro. Ognuno di questi passi ti permette di circoscrivere il perimetro del tuo lavoro e darti una direzione ben definita: in questo modo, quando sarai pronto, potrai procedere con la scrittura della tesi senza sentirti disorientato e spaesato.
 
-Se vuoi una tempistica più precisa per la laurea, ti consigliamo di visionare il nostro [Cronoprograma laureandi](/33526/info/ABC/cronoprogramma-laurea), scritto grazie alle indicazioni del Consiglio di Area Didattica di Filosofia.
+Se vuoi una tempistica più precisa per la laurea, ti consigliamo di visionare il nostro [Cronoprograma laureandi](/33526/info/abc/cronoprogramma-laurea), scritto grazie alle indicazioni del Consiglio di Area Didattica di Filosofia.

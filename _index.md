@@ -22,11 +22,11 @@ bookToc: False
     <div class="home_page" id="home_timeline">
         <p class="home_box_text_title" id="home_wiki_text">Guide</p>
         <p class="home_box_text">Dall'iscrizione alla laurea</p>
-        <button class="explore_more" onclick="window.location.href = '33526/info/ABC/cronoprogramma/'">Esplora&nbsp<i class="fa-solid fa-arrow-right"></i></button>
+        <button class="explore_more" onclick="window.location.href = 'info/abc/cronoprogramma/'">Esplora&nbsp<i class="fa-solid fa-arrow-right"></i></button>
     </div>
     <div class="home_page" id="home_ssn_groups">
         <p class="home_box_text_title" id="home_wiki_text">Gruppi</p>
         <p class="home_box_text">Gruppi chat tra studenti</p>
-        <button class="explore_more" onclick="window.location.href = '/33526/contatti/gruppi'">Esplora&nbsp<i class="fa-solid fa-arrow-right"></i></button>
+        <button class="explore_more" onclick="window.location.href = 'contatti/gruppi'">Esplora&nbsp<i class="fa-solid fa-arrow-right"></i></button>
     </div>
 </div>

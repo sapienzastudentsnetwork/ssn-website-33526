@@ -2,4 +2,4 @@
 title: Domanda di Laurea
 ---
 
-{{% include "content/filosofia/ABC/laurearsi/domanda-di-laurea.md" %}}
+{{% include "content/filosofia/abc/laurearsi/domanda-di-laurea.md" %}}
