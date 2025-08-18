@@ -1,8 +1,7 @@
 ---
-title: Servizi
-aliases: ["/31774/info/servizi"]
+title: Laurearsi
 bookCollapseSection: true
-weight: 4
+weight: 6
 layout: 'index-page'
 type: 'page'
 ---

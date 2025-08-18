@@ -1,6 +1,5 @@
 ---
-title: 📖 Guide
-aliases: ["/31774/info"]
+title: 💡 ABC dello studente
 bookFlatSection: true
 weight: 1
 layout: 'index-page'

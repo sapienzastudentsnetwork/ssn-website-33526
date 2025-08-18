@@ -1,7 +1,8 @@
 ---
-title: Vita Studentesca
+title: Diritti ed opportunità
 aliases: ["/31774/info/vita-studentesca"]
 bookCollapseSection: true
-bookHidden: false
 weight: 2
+layout: 'index-page'
+type: 'page'
 ---
