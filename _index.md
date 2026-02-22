@@ -4,7 +4,7 @@ aliases: ["/31774"]
 bookToc: False
 ---
 
-<h1 align="center" id="title_grad_cs" class="title_grad" style="font-weight: 900">Filosofia e IA</h1>
+<h1 align="center" id="title_grad_compsci" class="title_grad" style="font-weight: 900">Filosofia e IA</h1>
 <p align="center" style="margin-top: -15px">Corso di Laurea Triennale in Filosofia e Intelligenza Artificiale</p>
 
 <div style="width: 90%; height: 1px; background-color: #606060; margin-left: auto; margin-right: auto"></div>
